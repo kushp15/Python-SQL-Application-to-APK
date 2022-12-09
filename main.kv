@@ -1,0 +1,29 @@
+WindowManager:
+
+    MainWindow:
+
+<MainWindow>:
+	name: "MainWindow"
+
+    MDFloatLayout:
+	    md_bg_color: "white"
+	    radius: [0, 0, 0, 0]
+
+	    Image:
+	        source: 'download.jpg'
+	        size_hint: 0.675, 0.5
+	        pos_hint: {"center_x": .5, "center_y": .75}
+	        allow_stretch: True
+	        md_bg_color: 0,0,0,1
+
+        MDTextField
+            id: asset
+            pos_hint: {"center_x": .5, "center_y": .2}
+
+
+        MDRectangleFlatButton:
+            text: "Load Data"
+            pos_hint: {"center_x": .5, "center_y": .4}
+            on_release:
+                root.abc()
+
