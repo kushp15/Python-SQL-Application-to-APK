@@ -1,0 +1,120 @@
+2022-12-09 13:45:39.108 12927-12927 ProcessState            pid-12927                            D  Binder ioctl to enable oneway spam detection failed: Invalid argument
+2022-12-09 13:45:39.113  1730-5103  libprocessgroup         pid-1730                             W  Failed to find DoSomethingOlaftask profile: Success
+2022-12-09 13:45:39.131  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.134  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.135  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.136  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.137  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.139  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.141  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.141  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.142  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.143  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.144  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.145  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.145  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.146  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.146  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.320 12927-12927 pythonutil              org.test.myapp                       V  Library loading error: dlopen failed: library "libpython3.5m.so" not found
+2022-12-09 13:45:39.321 12927-12927 pythonutil              org.test.myapp                       V  Library loading error: dlopen failed: library "libpython3.6m.so" not found
+2022-12-09 13:45:39.322 12927-12927 pythonutil              org.test.myapp                       V  Library loading error: dlopen failed: library "libpython3.7m.so" not found
+2022-12-09 13:45:39.323 12927-12927 pythonutil              org.test.myapp                       V  Library loading error: dlopen failed: library "libpython3.8.so" not found
+2022-12-09 13:45:39.341  1730-4252  ServiceManager          pid-1730                             W  Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10294 pid=12927
+2022-12-09 13:45:39.372 12927-12954 hw-ProcessState         org.test.myapp                       D  Binder ioctl to enable oneway spam detection failed: Invalid argument
+2022-12-09 13:45:39.378  1730-8134  ServiceManager          pid-1730                             W  Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10294 pid=12927
+2022-12-09 13:45:39.379  1730-6227  ServiceManager          pid-1730                             W  Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10294 pid=12927
+2022-12-09 13:45:39.381 12927-12927 SensorManager           org.test.myapp                       D  registerListener fail (2) :: 11, bmi26x Accelerometer Non-wakeup, 20000, 0, org.libsdl.app.SDLSurface{42945f9 VFE...... .F....ID 0,0-1200,1892}
+2022-12-09 13:45:39.410  1730-1907  libperflog              pid-1730                             E  [LIBPERFLOG] socket_local_client fail = -1
+2022-12-09 13:45:39.428  1730-5103  libprocessgroup         pid-1730                             W  Failed to find DoNothingOlaftask profile: Success
+2022-12-09 13:45:39.429  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.429  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.430  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.430  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.430  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.430  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.431  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.431  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.432  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.432  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.433  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.433  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.434  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.434  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.435  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.435  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.436  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:39.436  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:45:42.616  1730-5103  libprocessgroup         pid-1730                             W  Failed to find DoNothingOlaftask profile: Success
+2022-12-09 13:45:49.513 12978-12978 ProcessState            pid-12978                            D  Binder ioctl to enable oneway spam detection failed: Invalid argument
+2022-12-09 13:45:56.370  1075-1269  SDM                     pid-1075                             W  HWCDisplay::GetHWCLayer: [0] GetLayer(1147) failed: no such layer
+2022-12-09 13:45:56.634  1191-1191  BpTransact...edListener pid-1191                             E  Failed to transact (-32)
+2022-12-09 13:45:56.636  1191-1191  BpTransact...edListener pid-1191                             E  Failed to transact (-32)
+2022-12-09 13:45:56.686  4687-4687  libprocessgroup         pid-4687                             E  set_timerslack_ns write failed: Operation not permitted
+2022-12-09 13:45:56.753  4687-4687  libprocessgroup         pid-4687                             E  set_timerslack_ns write failed: Operation not permitted
+2022-12-09 13:45:57.424  1730-1801  System                  pid-1730                             W  A resource failed to call release. 
+2022-12-09 13:45:57.425  1730-1801  System                  pid-1730                             W  A resource failed to call close. 
+2022-12-09 13:46:01.717  4687-4687  libprocessgroup         pid-4687                             E  set_timerslack_ns write failed: Operation not permitted
+2022-12-09 13:46:01.781  4687-4687  libprocessgroup         pid-4687                             E  set_timerslack_ns write failed: Operation not permitted
+2022-12-09 13:46:36.047 13018-13018 ProcessState            pid-13018                            D  Binder ioctl to enable oneway spam detection failed: Invalid argument
+2022-12-09 13:46:36.048  1730-5103  libprocessgroup         pid-1730                             W  Failed to find DoSomethingOlaftask profile: Success
+2022-12-09 13:46:36.063  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.065  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.066  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.067  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.069  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.070  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.080  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.082  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.083  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.086  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.087  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SFrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.088  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.088  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.089  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.089  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.144  1730-1921  libperflog              pid-1730                             E  [LIBPERFLOG] socket_local_client fail = -1
+2022-12-09 13:46:36.154  1730-1921  libperflog              pid-1730                             E  [LIBPERFLOG] socket_local_client fail = -1
+2022-12-09 13:46:36.161  1730-1921  libperflog              pid-1730                             E  [LIBPERFLOG] socket_local_client fail = -1
+2022-12-09 13:46:36.169  1730-1921  libperflog              pid-1730                             E  [LIBPERFLOG] socket_local_client fail = -1
+2022-12-09 13:46:36.260 13018-13018 pythonutil              org.test.myapp                       V  Library loading error: dlopen failed: library "libpython3.5m.so" not found
+2022-12-09 13:46:36.261 13018-13018 pythonutil              org.test.myapp                       V  Library loading error: dlopen failed: library "libpython3.6m.so" not found
+2022-12-09 13:46:36.262 13018-13018 pythonutil              org.test.myapp                       V  Library loading error: dlopen failed: library "libpython3.7m.so" not found
+2022-12-09 13:46:36.263 13018-13018 pythonutil              org.test.myapp                       V  Library loading error: dlopen failed: library "libpython3.8.so" not found
+2022-12-09 13:46:36.280  1730-9521  ServiceManager          pid-1730                             W  Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10294 pid=13018
+2022-12-09 13:46:36.313 13018-13045 hw-ProcessState         org.test.myapp                       D  Binder ioctl to enable oneway spam detection failed: Invalid argument
+2022-12-09 13:46:36.321  1730-6539  ServiceManager          pid-1730                             W  Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10294 pid=13018
+2022-12-09 13:46:36.322  1730-2142  ServiceManager          pid-1730                             W  Permission failure: android.permission.HIGH_SAMPLING_RATE_SENSORS from uid=10294 pid=13018
+2022-12-09 13:46:36.324 13018-13018 SensorManager           org.test.myapp                       D  registerListener fail (2) :: 11, bmi26x Accelerometer Non-wakeup, 20000, 0, org.libsdl.app.SDLSurface{42945f9 VFE...... .F....ID 0,0-1200,1892}
+2022-12-09 13:46:36.353  1730-1907  libperflog              pid-1730                             E  [LIBPERFLOG] socket_local_client fail = -1
+2022-12-09 13:46:36.375  1730-5103  libprocessgroup         pid-1730                             W  Failed to find DoNothingOlaftask profile: Success
+2022-12-09 13:46:36.375  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.375  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.376  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.376  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.377  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.377  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.378  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.378  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.378  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.378  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.379  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.379  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.380  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.380  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.380  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.380  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.381  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.381  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.382  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.382  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.385  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Socket operation on non-socket
+2022-12-09 13:46:36.391  1730-5167  libprocessgroup         pid-1730                             W  Failed to find SUnfrozenprocess profile: Try again
+2022-12-09 13:46:36.464  1730-1801  System                  pid-1730                             W  A resource failed to call release. 
+2022-12-09 13:46:39.551  1730-5103  libprocessgroup         pid-1730                             W  Failed to find DoNothingOlaftask profile: Success
+2022-12-09 13:46:50.051  1075-1332  SDM                     pid-1075                             W  HWCDisplay::GetHWCLayer: [0] GetLayer(1155) failed: no such layer
+2022-12-09 13:46:50.199  1191-1191  BpTransact...edListener pid-1191                             E  Failed to transact (-32)
+2022-12-09 13:46:50.199  1191-1191  BpTransact...edListener pid-1191                             E  Failed to transact (-32)
+2022-12-09 13:46:50.243  4687-4687  libprocessgroup         pid-4687                             E  set_timerslack_ns write failed: Operation not permitted
+2022-12-09 13:46:50.301  4687-4687  libprocessgroup         pid-4687                             E  set_timerslack_ns write failed: Operation not permitted
+2022-12-09 13:47:00.023  4687-4687  libprocessgroup         pid-4687                             E  set_timerslack_ns write failed: Operation not permitted
+2022-12-09 13:47:00.088  4687-4687  libprocessgroup         pid-4687                             E  set_timerslack_ns write failed: Operation not permitted
