@@ -1,11 +1,11 @@
-import mysql.connector
+import pymysql
 from kivymd.app import MDApp
 from kivy.lang import Builder
 from kivy.uix.screenmanager import ScreenManager, Screen
 
 class MainWindow(Screen):
     def abc(self):
-        mydb = mysql.connector.Connect(
+        mydb = pymysql.Connect(
           # Insert you PC Host Name (IP address)
             host='',
             user='root',
