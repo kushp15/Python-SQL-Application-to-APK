@@ -2,8 +2,7 @@
 
 Using pymysql instead of Mysql module:
 
-If you were trying to use mysql into your application it will crash, so use pymysql to access mysql server. I used mysql before its crashes since there is no recipie for it. 
-But using an pymysql module, it will be easy to convert into apk file without crash. 
+If you were trying to use mysql into your application it will crash, so use pymysql to access mysql server. I used mysql and its crashes after deploying into apk file since there is no recipie for it. But using an pymysql module, it will be easy to convert into apk file without crash. 
 
 
 Converting an python file to apk with using an kivymd and pymysql.
