@@ -1,4 +1,4 @@
-# PY-to-APK
+# Python-Sql Application converting to APK
 
 Using pymysql instead of Mysql module:
 
