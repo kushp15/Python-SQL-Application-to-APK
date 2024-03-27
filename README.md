@@ -9,9 +9,9 @@ Converting an python file to apk with using an kivymd and pymysql.
 
 Using the google colab, run the command below to convert the python file to apk without crash. 
 
-Installing buildozer:
+1) Installing buildozer:
 
-1) !pip install buildozer
+``` !pip install buildozer ```
 
 Installing Cython, use the latest version of cython:
 
